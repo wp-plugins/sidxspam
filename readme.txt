@@ -4,7 +4,7 @@ Donate link: http://photozero.net/donate
 Tags: anti-spam,image
 Requires at least: 2.3
 Tested up to: 2.6
-Stable tag: 3.0.0
+Stable tag: 3.1.0
 
 Anti-spam by verify code that displayed in the image under the comment form.
 
@@ -14,8 +14,8 @@ Anti-spam by verify code that displayed in the image under the comment form.
 <p>SidXSpam is an anti-spam plugin for Wordpress.The plugin works when reviewers submit replys,and then check the Verify Code.If the code does not correct it cannot comment.</p>
 
 <br /><br /><br />
-<p>ÌÖÑáÀ¬»øÆÀÂÛ£¿AkismetÎóÅĞÄúµÄÕı³£ÆÀÂÛ? ÊÔÊÔ¼òµ¥ÓĞĞ§µÄSidXSpam°É£¡</p>
-<p>SidXSpamÊÇÒ»¸ö·ÀÀ¬»øÆÀÂÛµÄWordpress²å¼ş¡£¸Ã²å¼şÔÚÓÃ»§ÊäÈëÆÀÂÛÊ±ĞèÒªÊäÈëËæ»úÑéÖ¤Âë£¬Ìá½»ºó½øĞĞÑéÖ¤¡£Èç¹ûÑéÖ¤Âë²»ÕıÈ·Ôò²»ÄÜ·¢±íÆÀÂÛ¡£</p>
+<p>è®¨åŒåƒåœ¾è¯„è®ºï¼ŸAkismetè¯¯åˆ¤æ‚¨çš„æ­£å¸¸è¯„è®º? è¯•è¯•ç®€å•æœ‰æ•ˆçš„SidXSpamå§ï¼</p>
+<p>SidXSpamæ˜¯ä¸€ä¸ªé˜²åƒåœ¾è¯„è®ºçš„Wordpressæ’ä»¶ã€‚è¯¥æ’ä»¶åœ¨ç”¨æˆ·è¾“å…¥è¯„è®ºæ—¶éœ€è¦è¾“å…¥éšæœºéªŒè¯ç ï¼Œæäº¤åè¿›è¡ŒéªŒè¯ã€‚å¦‚æœéªŒè¯ç ä¸æ­£ç¡®åˆ™ä¸èƒ½å‘è¡¨è¯„è®ºã€‚</p>
 
 == Installation ==
 

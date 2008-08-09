@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: SidXSpam
-Version: 3.0
+Version: 3.1.0
 Plugin URI: http://photozero.net/sidxspam/
 Author: Neekey
 Author URI: http://photozero.net
